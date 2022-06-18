@@ -1,0 +1,9 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+body{
+    font-family: "Anton", "Open Sans", sans-serif;
+    font-size: 16px;
+    color: $main-color;
+}
+.container{
+    max-width: 1200px;
+}
